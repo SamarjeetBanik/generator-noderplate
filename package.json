@@ -1,7 +1,7 @@
 {
   "name": "generator-noderplate",
   "version": "1.0.3",
-  "description": "Generates a scaffolding for back-end workflow with nodejs",
+  "description": "Generates a scaffolding boilerlate for back-end workflow with nodejs",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "boilerplate"
   ],
   "author": "teamnameerror",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "yeoman-generator": "^5.5.2",
     "yosay": "^2.0.2"
