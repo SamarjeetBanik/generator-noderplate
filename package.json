@@ -1,6 +1,6 @@
 {
   "name": "generator-noderplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates a scaffolding for back-end workflow with nodejs",
   "main": "index.js",
   "repository": {
