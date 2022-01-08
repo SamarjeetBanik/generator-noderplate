@@ -8,11 +8,14 @@
     "url": "git+https://github.com/SamarjeetBanik/generator-nodejs-boilerplate.git"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "nodejs",
+    "boilerplate"
   ],
   "author": "teamnameerror",
   "license": "ISC",
   "dependencies": {
-    "yeoman-generator": "^5.5.2"
+    "yeoman-generator": "^5.5.2",
+    "yosay": "^2.0.2"
   }
 }
