@@ -35,12 +35,7 @@ module.exports = class extends Generator {
 			this.destinationPath("package.json")
 		)
 	}
-
-    runNpm() {
-        this.log("...Installing all node dependencies...")
-        this.npmInstall()
-    }
-
+    
     end() {
         this.log("")
         this.log("Finished generating node.js boilerplate! Thanks for having patience.")
