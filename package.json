@@ -1,0 +1,15 @@
+{
+  "name": "generator-nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "Generates a scaffolding for back-end workflow with nodejs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamarjeetBanik/generator-nodejs-boilerplate.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "teamnameerror",
+  "license": "ISC"
+}
