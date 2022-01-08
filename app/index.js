@@ -39,7 +39,7 @@ module.exports = class extends Generator {
     end() {
         this.log("")
         this.log("Finished generating node.js boilerplate! Thanks for having patience.")
-        this.log(yosay("Thanks for installing our package!  Regards, Team NameError  Courtesy: Yeoman"))
-        this.log("\nNow, go ahead and test the boilerplate:     npm start     ")
+        this.log(yosay("Thanks for installing our package!\nRegards, Team NameError\nCourtesy: Yeoman"))
+        this.log("\nNow, go ahead and test the boilerplate:     npm start     \n")
     }
 }
