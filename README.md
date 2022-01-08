@@ -1,4 +1,4 @@
-# generator-nodejs-boilerplate
+# generator-noderplate
 
 > Generate Node.js starter files with just one command!
 
