@@ -11,5 +11,8 @@
     "yeoman-generator"
   ],
   "author": "teamnameerror",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.5.2"
+  }
 }
