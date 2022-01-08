@@ -14,11 +14,11 @@ We have deployed a npm package that will generate a boilerplate for nodejs backe
 
 You have to first install two of the below mentioned npm packages globally in order to use our package.
 
-1. ``npm install -g yo``
-2. ``npm install -g generator-nodejs-boilerplate``
+1. `npm install -g yo`
+2. `npm install -g generator-noderplate`
 
 Now, you have to just enter the below command in every node project you are going to build.
-- ``yo required-nodejs-files``
+- `yo noderplate`
 
 > View our npm package [here]().
 
