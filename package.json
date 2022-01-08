@@ -1,5 +1,5 @@
 {
-  "name": "generator-nodejs-boilerplate",
+  "name": "generator-noderplate",
   "version": "1.0.0",
   "description": "Generates a scaffolding for back-end workflow with nodejs",
   "main": "index.js",
