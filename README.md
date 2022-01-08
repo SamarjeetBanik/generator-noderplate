@@ -34,7 +34,7 @@ Once the boilerplate has been generated enter the below command to view your ser
 npm start
 ```
 
-> If you have any problems, view this [video]() that properly walks you through the installation process.
+> If you have any problems, view this [video](https://drive.google.com/file/d/1dOTIIFpu9O7GeXyVd9riPHXkr5D2lk8c/view) that properly walks you through the installation process.
 
 #### Hope, you liked this project. Don't forget to 🌟 the repo, if you liked it.
 If you feel, anything can be better in this project, then you can just pull a request [here](https://github.com/SamarjeetBanik/generator-nodejs-boilerplate/issues/new) or <a href="mailto:teamnameerror@gmail.com"><b>email</b></a> us.🙂
