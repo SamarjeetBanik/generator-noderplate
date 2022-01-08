@@ -20,6 +20,14 @@ You have to first install two of the below mentioned npm packages globally in or
 Now, you have to just enter the below command in every node project you are going to build.
 - `yo noderplate`
 
+#### WARNING! 
+In some systems, the above mentioned command `yo noderplate` might not work/run due to an ExecutionPolicy error(only for Windows users).
+In that case, please follow the below given steps:
+> - Open Windows PowerShell and run it as Adminstrator.
+> - Execute the following command: `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted`.
+> - Press Y to continue and this will resolve the issue.
+> - run again the command `yo noderplate` on your terminal.
+
 ## Compiles and hot-reloads for development
 Once the boilerplate has been generated enter the below command to view your server running locally at a certain port:
 ```
